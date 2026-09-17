@@ -1,67 +1,80 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe Page
 
-## 📸 Screenshot
-![Project view](./assets/images/screenshot.png)
+Projeto desenvolvido como solução para o desafio **Recipe Page** do Frontend Mentor.
 
-This is a solution to the Recipe page challenge from  Frontend Mentor. The goal of this project was to build a responsive recipe page using semantic HTML and modern CSS techniques.
+O objetivo foi construir uma página de receita responsiva utilizando **HTML semântico** e **CSS**, com foco em organização visual, responsividade e abordagem mobile-first.
 
----
+## Screenshot
 
-## 🔗 Links
+![Screenshot do projeto](./assets/screenshot.png)
 
-* Solution URL: https://www.frontendmentor.io/profile/lidianofeliciobr
-* Live Site URL: https://lihsousa.github.io/recipe-page/
+## Links
 
----
+- Frontend Mentor: https://www.frontendmentor.io/profile/lidianofeliciobr
+- Live Site: https://lidianofelicio.github.io/recipe-page/
 
+## Tecnologias utilizadas
 
-## 🛠️ Built with
+- HTML5 semântico
+- CSS3
+- Flexbox
+- CSS Grid
+- CSS Custom Properties
+- abordagem Mobile First
 
-* Semantic HTML5
-* CSS custom properties (variables)
-* Flexbox
-* Mobile-first workflow
+## Sobre o projeto
 
----
+A página apresenta uma receita completa, incluindo:
 
-## 📚 What I learned
+- imagem principal;
+- título e descrição;
+- tempo de preparo;
+- lista de ingredientes;
+- instruções;
+- informações nutricionais;
+- layout responsivo.
 
+## Conceitos praticados
 
-During this project, I improved my skills in:
+Durante o desenvolvimento deste projeto, foram praticados conceitos como:
 
-- Structuring HTML with semantic tags like `<section>`, `<article>` and `<header>`
-- Using CSS variables for better organization and reuse
-- Styling lists and pseudo-elements (like `::marker`)
-- Creating responsive layouts with Flexbox and Grid
-- Improving spacing and visual hierarchy
+- estruturação de conteúdo com HTML semântico;
+- uso de tags como `section`, `article` e `header`;
+- organização de estilos com CSS;
+- uso de variáveis CSS;
+- estilização de listas e pseudo-elementos;
+- construção de layouts responsivos;
+- Flexbox e Grid;
+- espaçamento e hierarquia visual;
+- adaptação da interface para diferentes tamanhos de tela.
 
-Example:
+## Exemplo de CSS utilizado
 
 ```css
 .instructions li::marker {
   color: var(--text-heading);
   font-weight: 700;
 }
-``` 
+```
 
----
+## Aprendizados
 
- ## 🔄 Continued development
+Este projeto ajudou a reforçar conhecimentos de HTML e CSS, principalmente na construção de layouts responsivos e na organização semântica do conteúdo.
 
-In future projects, I want to:
+Também serviu como prática para desenvolver interfaces a partir de um layout de referência proposto pelo Frontend Mentor.
 
-Improve my responsiveness skills
-Practice more complex layouts
-Start integrating JavaScript into my projects
+## Status
 
----
+Projeto concluído.
 
-## 👨‍💻 Author
-Frontend Mentor - https://www.frontendmentor.io/profile/lidianofeliciobr
-LinkedIn - https://www.linkedin.com/in/lidianofelicio/
+## Autor
 
----
+**Lidiano Felício**
 
-## 🙌 Acknowledgments
+- GitHub: https://github.com/lidianofelicio
+- LinkedIn: https://www.linkedin.com/in/lidianofelicio/
+- Frontend Mentor: https://www.frontendmentor.io/profile/lidianofeliciobr
 
-Thanks to Frontend Mentor for providing this challenge and helping developers improve their skills.
+## Agradecimentos
+
+Desafio proposto pelo **Frontend Mentor**, plataforma voltada à prática de desenvolvimento front-end por meio de projetos baseados em layouts reais.
