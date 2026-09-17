@@ -6,7 +6,7 @@ O objetivo foi construir uma página de receita responsiva utilizando **HTML sem
 
 ## Screenshot
 
-![Screenshot do projeto](./assets/screenshot.PNG)
+![Screenshot do projeto](./assets/screenshot.png)
 
 ## Links
 
